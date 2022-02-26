@@ -67,7 +67,25 @@ public class MainClass {
         String fullName = scanner.nextLine();  // string
         System.out.println("Your family name: ");
         String familyName = scanner.nextLine();
+
         System.out.println(" My name is " + fullName + "  " + familyName);
+
+
+        System.out.println("-----------------");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -77,3 +95,8 @@ public class MainClass {
 
     }
 }
+
+
+
+
+

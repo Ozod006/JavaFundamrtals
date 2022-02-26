@@ -11,10 +11,11 @@ public class Profesors {
         float num_2 = 23.32f;
         double num_3 = 123.432f;
 
-        char sym = 'A';
         boolean is_happy = true;
+        char sym = 'A';
 
-        System.out.print("Variable ="+false);
+        System.out.print("Variable =" + false);
+
+
     }
-
-}
+ }
